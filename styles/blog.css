@@ -1,0 +1,12 @@
+h3{
+    color: aqua;
+    background-color: chartreuse;
+    padding: 50px;
+    border-color: chocolate;
+    border-radius: 20px;
+}
+p{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: fuchsia;
+}
